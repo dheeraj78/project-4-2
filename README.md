@@ -3,4 +3,4 @@
 
 
 ## Group Details: 
-**Title:** __ Mean Based Approach to Ominidirectional pathfinding Algorithm using single ultrasonic sensor for robotic car __
+**Title:** __Mean Based Approach to Ominidirectional pathfinding Algorithm using single ultrasonic sensor for robotic car__
